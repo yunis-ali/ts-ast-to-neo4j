@@ -176,8 +176,11 @@ That’s all for the parsing code, let’s execute it:
 
 ```javascript
 npm run start <your-class-file.ts>
+```
+
 As an example i will use this small class (called demo.ts) in the repository.
 
+```javascript
 class Demo {
 	someNumber:number;
 	someString:string;
